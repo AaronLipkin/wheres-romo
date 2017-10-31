@@ -66,8 +66,9 @@ h3 {
 @media only screen and (max-width: 1000px) {
 	h1 {
 		margin: 30px auto;
-		font-size: 120px;
+		font-size: 100px;
 		width: 80%;
+		line-height: 1;
 	}
 
 	#game {
@@ -81,14 +82,14 @@ h3 {
 
 	#away-logo {
 		position: absolute;
-		top: 37%;
+		top: 35%;
 		left: 50%;
 		transform: translate(-50%,-50%);
 	}
 
 	h2 {
 		position: absolute;
-		top: 46.2%;
+		top: 46%;
 		left: 50%;
 		transform: translate(-50%,-50%);
 	}
@@ -103,7 +104,7 @@ h3 {
 
 	#home-logo {
 		position: absolute;
-		top: 63%;
+		top: 65%;
 		left: 50%;
 		transform: translate(-50%,-50%);
 	}
